@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1
+    is_correct: true
+  - text: 3
+    is_correct: false
+  - text: 5
+    is_correct: false
+  - text: 6
+    is_correct: false
+  - text: 7
+    is_correct: false
+files:
+  - name: src/WhileUsingModulus.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 11 Mar 2025 13:48:20 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: true
